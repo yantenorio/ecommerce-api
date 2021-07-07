@@ -16,7 +16,7 @@ Tabela de conteúdos
    ### :computer: Rodando o Back End (servidor) 
    ```bash 
    # Clone este repositório 
-   $ git clone <[https://github.com/yantenorio/projeto_api.git](https://github.com/yantenorio/projeto_api.git)> 
+   $ git clone <[https://github.com/yantenorio/ecommerce-api.git](https://github.com/yantenorio/ecommerce-api.git)> 
    # Acesse a pasta do projeto no terminal/cmd 
    # Instale as dependências 
    $ npm install  
