@@ -23,9 +23,9 @@ Tabela de conteúdos
    ```
    ## Como usar
    ### :airplane: Use as rotas:
-  ** http://localhost:3000/users/
-  ** http://localhost:3000/products/
-  ** http://localhost:3000/carts/
+  - http://localhost:3000/users/
+  - http://localhost:3000/products/
+  - http://localhost:3000/carts/
     
  ## 🛠 Tecnologias
 
